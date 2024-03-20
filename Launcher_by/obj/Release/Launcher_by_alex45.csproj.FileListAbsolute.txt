@@ -1,0 +1,141 @@
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\UniversalGameLauncher-master\UniversalGameLauncher\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\UniversalGameLauncher\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Launcher_by_alex45\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Tibia_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\Dofus_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\Aion_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\WoW_Launcher_v2\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher.exe
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\Launcher.exe.config
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\Launcher.exe
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\Launcher.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\bugat\Desktop\WoW_Launcher_v2.1\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.exe.config
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.exe
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.pdb
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.exe
+F:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.pdb
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.exe.config
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.exe
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\Launcher.pdb
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.pdb
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.AssemblyReference.cache
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.SuggestedBindingRedirects.cache
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.Application.resources
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.Properties.Resources.resources
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.GenerateResource.cache
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CoreCompileInputs.cache
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher_by_alex45.csproj.CopyComplete
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.exe
+E:\bfa lyan\WoW_Launcher_v2.1_wotlk\Launcher_by_alex45\obj\Release\Launcher.pdb
