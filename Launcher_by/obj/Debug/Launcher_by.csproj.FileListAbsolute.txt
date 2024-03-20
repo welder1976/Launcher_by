@@ -1,0 +1,15 @@
+E:\Launcher_by\Launcher_by\bin\Debug\Launcher.exe.config
+E:\Launcher_by\Launcher_by\bin\Debug\Launcher.exe
+E:\Launcher_by\Launcher_by\bin\Debug\Launcher.pdb
+E:\Launcher_by\Launcher_by\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Launcher_by\Launcher_by\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Launcher_by\Launcher_by\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher_by.csproj.AssemblyReference.cache
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher_by.csproj.SuggestedBindingRedirects.cache
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher.Application.resources
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher.Properties.Resources.resources
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher_by.csproj.GenerateResource.cache
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher_by.csproj.CoreCompileInputs.cache
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher_by.csproj.CopyComplete
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher.exe
+E:\Launcher_by\Launcher_by\obj\Debug\Launcher.pdb
